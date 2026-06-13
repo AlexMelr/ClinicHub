@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+
+# Java / Maven
+target/
+*.class
+*.log
+
+# Flutter / Dart
+flutter_app/.dart_tool/
+flutter_app/build/
+flutter_app/.flutter-plugins
+flutter_app/.flutter-plugins-dependencies
+flutter_app/.pub-cache/
+flutter_app/.pub/
+flutter_app/coverage/
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# Local environment
+.env
+*.local
